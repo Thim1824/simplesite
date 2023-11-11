@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(../img/about-daniel-img.jpg) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://media.licdn.com/dms/image/C4E03AQGWgaT69MoFzQ/profile-displayphoto-shrink_200_200/0/1667929088553?e=1700697600&v=beta&t=pxRdW7hSvbbA2a8cGaNVMzP8FicZfW7nwk2KhDFVS0Y) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
